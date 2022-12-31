@@ -1,0 +1,3 @@
+nama: sayed nasrul rahmad
+npm : 20105111030
+kelas: 5²
